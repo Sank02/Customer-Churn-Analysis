@@ -1,16 +1,28 @@
-# 📊 Telco Customer Churn Analysis (EDA & Power BI)
+# 📊 Telco Customer Churn Analysis (Python & Power BI)
 
 ## 📌 Overview
 
-This project analyzes customer churn in a telecom company using EDA & Power BI. The dashboard provides insights into churn rates, contract types, payment methods, and revenue impact.
+This project analyzes customer churn in a telecom company using **Python (EDA) and Power BI (Dashboard)**. The goal is to identify key churn drivers and provide data-driven insights. The dashboard provides insights into churn rates, contract types, payment methods, and revenue impact.
 
-## 📂 Files Included
+## 📂 Files & Links Included
+
+🔗 **Jupyter Notebook (EDA in Python):** [View Notebook](https://nbviewer.org/github/Sank02/Customer-Churn-Analysis/blob/main/TCA.ipynb)  
+🔗 **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ3OTFkM2EtNWY1YS00NjA1LThkNjAtOGJmZjVhMGFmZDc2IiwidCI6IjA1MzYzOThhLTNjZGQtNDJjNi1iOGJhLWNjMGUwMGQ3OTI3YyJ9)  
 
 - `Telco_Churn.pbix` → Power BI Dashboard
 - `Telco-Customer-Churn.csv` → Customer dataset
 - `Summary_Telco_Customer_Churn_Analysis.pdf` → Executive Summary
 - `TCA.ipynb` → Exploratory Data Analysis
-- `README.md` → Project Documentation 
+- `README.md` → Project Documentation
+
+## 🛠️ Data Analysis & Tools Used
+### 🔹 **Exploratory Data Analysis (EDA)**
+- **Python Libraries:** Pandas, NumPy, Matplotlib, & Seaborn
+
+### 🔹 **Power BI Dashboard**
+- **Interactive reports** designed for both **PC & Mobile App**  
+- **Visualizations used:** Bar Charts, Line Graphs, Scatter Chart, and more  
+- **KPIs displayed:** Total Customers, Churn Rate, Retention Rate, Revenue Impact  
 
 ## 📊 Key Insights
 
@@ -20,10 +32,10 @@ This project analyzes customer churn in a telecom company using EDA & Power BI. 
 ✅ Billing & Payment Method Influence  
 ✅ Demographic Factors  
 
-
 ## 🚀 How to Use
 
-1. Download `Telco_Churn.pbix`
-2. Open in **Power BI Desktop**
-3. Explore the interactive dashboard
-4. You can also check out the Python notebook, which includes Exploratory Data Analysis (EDA) using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+1. Check the **Power BI Dashboard** from the link above explore insights shown. 
+2. Explore the **Jupyter Notebook** to understand the **EDA process**. 
+
+## 💡 Feedback & Suggestions
+I’d love to hear your thoughts! Feel free to suggest improvements or discuss insights. 
